@@ -1,0 +1,17 @@
+*.iml
+*.pyc
+*.o
+*.o.d
+*.a
+*.so
+.gradle
+/local.properties
+/.idea
+.idea/
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+*/*/build
+*/*/obj
+/nevermore
